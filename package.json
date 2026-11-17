@@ -1,0 +1,16 @@
+{
+  "name": "express-activity",
+  "version": "1.0.0",
+  "description": "Mod 13 Mongoose activities - Book model",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.2"
+  }
+}
